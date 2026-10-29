@@ -1,0 +1,9 @@
+name = "jonsercrate-list-admin"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+REPO_OWNER = "YOUR_GITHUB_USERNAME"
+REPO_NAME = "jonsercrate-demon-list"
+BRANCH = "main"
+ALLOWED_ORIGIN = "https://YOUR_GITHUB_USERNAME.github.io"
