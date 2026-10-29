@@ -1,16 +1,6 @@
 {
   "levels": [
     {
-      "id": "e3628e89-c33b-4abb-81da-2a66bf34b780",
-      "category": "challenges",
-      "name": "Rogue Wave",
-      "rank": 1,
-      "creator": "LJ4280PC",
-      "verifier": "LJ4280PC",
-      "video": "",
-      "description": "TEST YOUR MIGHT"
-    },
-    {
       "id": "89d2ea41-c21e-4f65-b368-31a45061d11d",
       "category": "challenges",
       "name": "Frosty Walk",
