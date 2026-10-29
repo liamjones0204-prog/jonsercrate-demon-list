@@ -1,24 +1,24 @@
 {
   "levels": [
     {
-      "id": "85f8c884-e631-4b61-b5d6-95ec33549747",
+      "id": "e3628e89-c33b-4abb-81da-2a66bf34b780",
       "category": "challenges",
       "name": "Rogue Wave",
       "rank": 1,
       "creator": "LJ4280PC",
       "verifier": "LJ4280PC",
-      "video": "https://drive.google.com/file/d/12QOeE8li2YGavBMchdDD2LZ2cPBt82bq/view?usp=drive_link",
+      "video": "",
       "description": "TEST YOUR MIGHT"
     },
     {
-      "id": "22122e64-3a84-411d-8993-2e03694e5345",
+      "id": "89d2ea41-c21e-4f65-b368-31a45061d11d",
       "category": "challenges",
-      "name": "Rogue Wave",
-      "rank": 1,
+      "name": "Frosty Walk",
+      "rank": 2,
       "creator": "LJ4280PC",
       "verifier": "LJ4280PC",
-      "video": "https://drive.google.com/file/d/12QOeE8li2YGavBMchdDD2LZ2cPBt82bq/view?usp=drive_link",
-      "description": "TEST YOUR MIGHT"
+      "video": "https://drive.google.com/file/d/1AweIz0xnHoVDemzOeKDEggezaGRQqFFg/view",
+      "description": "Take a walk."
     }
   ],
   "completions": []
